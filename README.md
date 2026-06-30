@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bereket-kibret/Bereket-kibret/main/github_banner.png" alt="Profile Banner" width="100%">
+  <!-- <img src="https://raw.githubusercontent.com/Bereket-kibret/Bereket-kibret/main/github_banner.png" alt="Profile Banner" width="100%"> -->
         <img width="1280" height="640" alt="12" src="https://github.com/user-attachments/assets/fe6d534c-443e-4248-99af-0c55a566da17" />
 
 </p>
