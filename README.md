@@ -58,24 +58,6 @@ I am a passionate **Software Engineering Student** at **Addis Ababa Science and 
 
 ---
 
-## 📊 Performance Metrics (Widescreen Overview)
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Bereket-kibret&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bereket-kibret&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bereket-kibret&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages" width="85%" />
-    </td>
-  </tr>
-</table>
 
 ---
 
